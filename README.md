@@ -34,5 +34,6 @@ Note: To make sure the authorization can work to other service
 
 ### 1️⃣ Run with MakeFile
 ```
+make tidy
 make run
 ```
