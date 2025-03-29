@@ -1,8 +1,8 @@
 # Test Auth API
 
-🚀 **Test Auth API** adalah aplikasi sederhana untuk autentikasi menggunakan JWT (JSON Web Token) dengan **Golang** dan **Echo**.
+🚀 **Test Auth API** is a simple authentication application using JWT (JSON Web Token) with **Golang** and **Echo**.
 
-## 🛠 Teknologi yang Digunakan
+## 🛠 Teknologi Used
 
 - [Golang](https://go.dev/)
 - [Echo](https://echo.labstack.com/) (Framework HTTP)
@@ -30,9 +30,9 @@ Authorization : token
 Note: To make sure the authorization can work to other service
 ---
 
-## 📦 **Instalasi & Menjalankan API**
+## 📦 **How To Run**
 
-### 1️⃣ Clone Repo
-```sh
-git clone https://github.com/username/test-auth.git
-cd test-auth
+### 1️⃣ Run with MakeFile
+```
+make run
+```
